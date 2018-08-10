@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmoDBNetCore", "CosmoDBNe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoTeamStatsWithRedisCache", "ContosoTeamStatsWithRedisCache\ContosoTeamStatsWithRedisCache.csproj", "{7D9A12C7-6378-46D0-A2E8-6643DCC4ADC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindWebWithWCFDataService", "NorthwindWebWithWCFDataService\NorthwindWebWithWCFDataService.csproj", "{EEDBD609-CCE3-4388-A450-EDCC2CF85204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIDesign", "WebAPIDesign\WebAPIDesign.csproj", "{D0B05D6E-F46B-4BC0-97BB-215F53922BCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{7D9A12C7-6378-46D0-A2E8-6643DCC4ADC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D9A12C7-6378-46D0-A2E8-6643DCC4ADC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D9A12C7-6378-46D0-A2E8-6643DCC4ADC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEDBD609-CCE3-4388-A450-EDCC2CF85204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEDBD609-CCE3-4388-A450-EDCC2CF85204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEDBD609-CCE3-4388-A450-EDCC2CF85204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEDBD609-CCE3-4388-A450-EDCC2CF85204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0B05D6E-F46B-4BC0-97BB-215F53922BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B05D6E-F46B-4BC0-97BB-215F53922BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B05D6E-F46B-4BC0-97BB-215F53922BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B05D6E-F46B-4BC0-97BB-215F53922BCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
