@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindWebWithWCFDataServ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIDesign", "WebAPIDesign\WebAPIDesign.csproj", "{D0B05D6E-F46B-4BC0-97BB-215F53922BCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETIdentity", "ASPNETIdentity\ASPNETIdentity.csproj", "{7EF7B660-9849-48BF-A49F-881715FA076E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D0B05D6E-F46B-4BC0-97BB-215F53922BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0B05D6E-F46B-4BC0-97BB-215F53922BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0B05D6E-F46B-4BC0-97BB-215F53922BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF7B660-9849-48BF-A49F-881715FA076E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF7B660-9849-48BF-A49F-881715FA076E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF7B660-9849-48BF-A49F-881715FA076E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF7B660-9849-48BF-A49F-881715FA076E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
